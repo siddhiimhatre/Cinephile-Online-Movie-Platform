@@ -1,6 +1,8 @@
 ## Future ready talent project by Siddhi Mhatre.
 Here i create a Movie website named "SETFLIX" that provide best online platform for movie.
 
+## my website link:https://blue-mushroom-089b08710.1.azurestaticapps.net
+
 ## Home Page
 ![Screenshot (13)](https://user-images.githubusercontent.com/107294626/178961942-ca8c9028-ab6e-41b2-94f4-5ddc24cfa5ac.png)
 
