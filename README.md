@@ -7,15 +7,15 @@ Here i create a Movie website named "SETFLIX" that provide best online platform 
 ## Trending Page
 ![Screenshot (14)](https://user-images.githubusercontent.com/107294626/178962212-eb18ea73-7562-4791-a1e5-a9b60c8a7615.png)
 
-##Explore page
+## Explore page
 ![Screenshot (15)](https://user-images.githubusercontent.com/107294626/178962579-4213b175-ca6c-47e4-8de6-de58c8b8b7db.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/107294626/178962531-bf55c424-1442-4554-a8f9-0b2547b6952f.png)
 
-##Movies Page
+## Movies Page
 ![Screenshot (17)](https://user-images.githubusercontent.com/107294626/178962682-8f79ee02-e223-4214-83f3-f308ac5b0ba0.png)
 ![Screenshot (18)](https://user-images.githubusercontent.com/107294626/178962725-bf163529-ee9f-4f14-90c3-551547be95b8.png)
 
-##Watch The Trailor section
+## Watch The Trailor section
 ![Screenshot (19)](https://user-images.githubusercontent.com/107294626/178962959-72851412-fab8-4e09-8da7-2cbd240d54a6.png)
 ![Screenshot (20)](https://user-images.githubusercontent.com/107294626/178963007-ae0e4c6a-1bce-413b-b93b-3fb86cae0bf0.png)
 ![Screenshot (21)](https://user-images.githubusercontent.com/107294626/178963092-203c3261-b561-4a5f-a6d0-1f2eda3cf6ae.png)
